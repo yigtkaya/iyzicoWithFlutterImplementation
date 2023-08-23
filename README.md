@@ -1,16 +1,11 @@
 # iyzico_with_flutter
 
-A new Flutter project.
+A new Flutter project for implementing Iyzico Payment.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Server side of this project is in the https://github.com/yigtkaya/Iyzico-3D-Node.js-master repo of mine. Both Flutter and node codes are fully customize you can customize code to your wishes
 
-A few resources to get you started if this is your first Flutter project:
+https://dev.iyzipay.com/tr used api documentation to create this repo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Bloc, Cubit for the state management.
